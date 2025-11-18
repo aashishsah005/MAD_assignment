@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CLO001",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 59.99,
+    "imageUrl": "drawable/clothing_jacket",
+    "description": "A timeless denim jacket for all seasons. Made with 100% cotton."
+  },
+  {
+    "id": "CLO002",
+    "name": "Striped Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "imageUrl": "drawable/clothing_tshirt",
+    "description": "Soft and comfortable, this striped t-shirt is a wardrobe essential."
+  },
+  {
+    "id": "ELE001",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 149.99,
+    "imageUrl": "drawable/electronics_headphones",
+    "description": "Immerse yourself in music with our top-rated noise-cancelling headphones."
+  }
+]

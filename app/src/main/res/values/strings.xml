@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Easy Dealers</string>
+
+    <!-- Login Screen -->
+    <string name="welcome">Welcome Back!</string>
+    <string name="desc">Login to your account</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_acc">Don\'t have an account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="logo">Logo</string>
+
+    <!-- Register Screen -->
+    <string name="create_acc">Create Account</string>
+    <string name="name">Full Name</string>
+    <string name="number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="register">Register</string>
+    <string name="acc">Already have an account?</string>
+
+    <!-- Validation Errors -->
+    <string name="error_email_required">Email is required</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_name_too_short">Name must be at least 3 characters</string>
+    <string name="error_phone_required">Phone number is required</string>
+    <string name="error_phone_invalid">Phone number must be 10 digits</string>
+    <string name="error_address_required">Address is required</string>
+
+    <!-- Success Messages -->
+    <string name="login_successful">Login successful!</string>
+    <string name="registration_successful">Registration successful! Please login.</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Product Detail -->
+    <string name="product_image_description">Product Image</string>
+
+    <!-- Dimensions -->
+    <dimen name="text">18sp</dimen>
+</resources>

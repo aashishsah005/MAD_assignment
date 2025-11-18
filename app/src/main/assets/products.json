@@ -1,0 +1,442 @@
+[
+  {
+    "id": "CLO01",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 59.99,
+    "imageUrl": "https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dwde3621e9/images/100049799/100049799_07L_1920x2880.jpg?sw=1200&sh=1800",
+    "description": "A timeless denim jacket for all seasons. Made with 100% cotton."
+  },
+  {
+    "id": "CLO02",
+    "name": "Linen Summer Shirt",
+    "category": "Clothing",
+    "price": 39.99,
+    "imageUrl": "https://i5.walmartimages.com/seo/Sexy-Dance-Women-Summer-Button-Down-Blouse-Shirts-Cotton-And-Linen-Short-Sleeve-V-Neck-Casual-Loose-Collared-Tops-with-Pockets_401a7a1e-ff1b-4e2e-b1bc-06d6f2f421ba.1a8ef45f6d106bf22c0e8537b71cd311.jpeg",
+    "description": "A breathable and lightweight linen shirt, perfect for warm weather."
+  },
+  {
+    "id": "CLO03",
+    "name": "Wool Blend Trousers",
+    "category": "Clothing",
+    "price": 75.00,
+    "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a",
+    "description": "Elegant and comfortable trousers for formal or casual wear."
+  },
+  {
+    "id": "CLO04",
+    "name": "Graphic Print T-Shirt",
+    "category": "Clothing",
+    "price": 24.99,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "Soft cotton t-shirt with a unique, artistic graphic print."
+  },
+  {
+    "id": "CLO05",
+    "name": "Cashmere Sweater",
+    "category": "Clothing",
+    "price": 120.00,
+    "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+    "description": "Luxuriously soft 100% cashmere sweater for ultimate comfort and style."
+  },
+  {
+    "id": "CLO06",
+    "name": "Leather Belt",
+    "category": "Clothing",
+    "price": 45.00,
+    "imageUrl": "https://images.unsplash.com/photo-1624222247344-550fb60583b0",
+    "description": "A genuine leather belt with a classic stainless steel buckle."
+  },
+  {
+    "id": "CLO07",
+    "name": "Running Shorts",
+    "category": "Clothing",
+    "price": 35.00,
+    "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b",
+    "description": "Lightweight, moisture-wicking shorts with a built-in liner for your workout."
+  },
+  {
+    "id": "CLO08",
+    "name": "Denim Jeans",
+    "category": "Clothing",
+    "price": 89.99,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+    "description": "Slim-fit denim jeans with a comfortable stretch for everyday wear."
+  },
+  {
+    "id": "CLO09",
+    "name": "Puffer Vest",
+    "category": "Clothing",
+    "price": 65.00,
+    "imageUrl": "https://images.unsplash.com/photo-1620799139834-6b8f844e8be7",
+    "description": "A warm, insulated puffer vest perfect for layering in cool weather."
+  },
+  {
+    "id": "ELE01",
+    "name": "UltraWide 4K Monitor",
+    "category": "Electronics",
+    "price": 499.99,
+    "imageUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
+    "description": "A 34-inch UltraWide monitor with stunning 4K resolution for immersive visuals."
+  },
+  {
+    "id": "ELE02",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 249.99,
+    "imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426bf472b",
+    "description": "Immerse yourself in sound with industry-leading noise cancellation."
+  },
+  {
+    "id": "ELE03",
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 129.99,
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+    "description": "RGB backlit mechanical keyboard with responsive switches for a competitive edge."
+  },
+  {
+    "id": "ELE04",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 89.99,
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+    "description": "Compact, waterproof speaker with rich bass and 12-hour battery life."
+  },
+  {
+    "id": "ELE05",
+    "name": "65-Inch 4K Smart TV",
+    "category": "Electronics",
+    "price": 799.99,
+    "imageUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1",
+    "description": "A smart TV with vibrant 4K HDR display and built-in streaming apps."
+  },
+  {
+    "id": "ELE06",
+    "name": "E-Reader Tablet",
+    "category": "Electronics",
+    "price": 139.99,
+    "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+    "description": "A glare-free e-reader with adjustable warm light and weeks of battery life."
+  },
+  {
+    "id": "ELE07",
+    "name": "Drone with 4K Camera",
+    "category": "Electronics",
+    "price": 599.00,
+    "imageUrl": "https://images.unsplash.com/photo-1473968512647-3e447244af8f",
+    "description": "Capture stunning aerial footage with this easy-to-fly GPS drone."
+  },
+  {
+    "id": "ELE08",
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "price": 349.00,
+    "imageUrl": "https://images.unsplash.com/photo-1546868871-7041f2a55e12",
+    "description": "Track your fitness, receive notifications, and more, right from your wrist."
+  },
+  {
+    "id": "ELE09",
+    "name": "External Hard Drive 2TB",
+    "category": "Electronics",
+    "price": 79.99,
+    "imageUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b",
+    "description": "Portable USB 3.0 external hard drive for reliable, easy-to-use storage."
+  },
+  {
+    "id": "SMA01",
+    "name": "Galaxy Pro X",
+    "category": "SmartPhones",
+    "price": 999.99,
+    "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c",
+    "description": "The latest flagship smartphone with a pro-grade camera and all-day battery life."
+  },
+  {
+    "id": "SMA02",
+    "name": "Pixel Nova 8",
+    "category": "SmartPhones",
+    "price": 799.00,
+    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+    "description": "Experience a brilliant display and an intelligent camera powered by AI."
+  },
+  {
+    "id": "SMA03",
+    "name": "Apex One Z",
+    "category": "SmartPhones",
+    "price": 1199.00,
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "description": "Unleash peak performance with the fastest processor and a stunning 120Hz display."
+  },
+  {
+    "id": "SMA04",
+    "name": "Power Bank 20000mAh",
+    "category": "SmartPhones",
+    "price": 49.99,
+    "imageUrl": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5",
+    "description": "A high-capacity power bank to charge your devices multiple times on the go."
+  },
+  {
+    "id": "SMA05",
+    "name": "Wireless Earbuds",
+    "category": "SmartPhones",
+    "price": 129.00,
+    "imageUrl": "https://images.unsplash.com/photo-1588702547919-26089e690ecc",
+    "description": "True wireless earbuds with active noise cancellation and a compact charging case."
+  },
+  {
+    "id": "SMA06",
+    "name": "Glass Screen Protector",
+    "category": "SmartPhones",
+    "price": 19.99,
+    "imageUrl": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb",
+    "description": "Tempered glass protector to defend your screen against scratches and impacts."
+  },
+  {
+    "id": "SMA07",
+    "name": "Fast Charging Wall Adapter",
+    "category": "SmartPhones",
+    "price": 29.99,
+    "imageUrl": "https://images.unsplash.com/photo-1591290619762-d2c52f53d9a3",
+    "description": "A 45W USB-C fast charger to power up your devices in a fraction of the time."
+  },
+  {
+    "id": "SMA08",
+    "name": "Rugged Protective Case",
+    "category": "SmartPhones",
+    "price": 39.99,
+    "imageUrl": "https://images.unsplash.com/photo-1593642532454-e138e28a63f4",
+    "description": "A dual-layer case providing heavy-duty protection against drops and shocks."
+  },
+  {
+    "id": "BEA01",
+    "name": "Radiant Glow Foundation",
+    "category": "Beauty",
+    "price": 39.50,
+    "imageUrl": "https://images.unsplash.com/photo-1590153579301-a2c6b41f7e44",
+    "description": "A lightweight foundation that provides flawless coverage and a natural, radiant finish."
+  },
+  {
+    "id": "BEA02",
+    "name": "Hydrating Lipstick",
+    "category": "Beauty",
+    "price": 22.00,
+    "imageUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
+    "description": "A creamy, long-lasting lipstick infused with hyaluronic acid for all-day moisture."
+  },
+  {
+    "id": "BEA03",
+    "name": "Volumizing Mascara",
+    "category": "Beauty",
+    "price": 25.00,
+    "imageUrl": "https://images.unsplash.com/photo-1631214524020-7e18db4a8b39",
+    "description": "Get dramatic volume and length with a clump-free, smudge-proof formula."
+  },
+  {
+    "id": "BEA04",
+    "name": "Vitamin C Face Serum",
+    "category": "Beauty",
+    "price": 45.00,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f168a7d8d2",
+    "description": "A potent antioxidant serum to brighten skin and reduce the appearance of fine lines."
+  },
+  {
+    "id": "BEA05",
+    "name": "Clay Face Mask",
+    "category": "Beauty",
+    "price": 32.00,
+    "imageUrl": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273",
+    "description": "A detoxifying clay mask to purify pores and leave skin feeling smooth."
+  },
+  {
+    "id": "BEA06",
+    "name": "Makeup Remover Wipes",
+    "category": "Beauty",
+    "price": 9.50,
+    "imageUrl": "https://images.unsplash.com/photo-1556228578-8c89e6adf883",
+    "description": "Gentle, biodegradable wipes that effectively remove all traces of makeup."
+  },
+  {
+    "id": "BEA07",
+    "name": "Nail Polish (Ruby Red)",
+    "category": "Beauty",
+    "price": 12.00,
+    "imageUrl": "https://images.unsplash.com/photo-1610992015762-45dca7c27a51",
+    "description": "A vibrant, chip-resistant nail polish with a high-gloss finish."
+  },
+  {
+    "id": "BEA08",
+    "name": "SPF 50 Sunscreen",
+    "category": "Beauty",
+    "price": 28.00,
+    "imageUrl": "https://images.unsplash.com/photo-1599305141697-3d961e3a64b6",
+    "description": "Broad-spectrum SPF 50 sunscreen with a lightweight, non-greasy formula."
+  },
+  {
+    "id": "BEA09",
+    "name": "Exfoliating Body Scrub",
+    "category": "Beauty",
+    "price": 26.00,
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+    "description": "A sugar-based body scrub to gently exfoliate and moisturize the skin."
+  },
+  {
+    "id": "PHA01",
+    "name": "Vitamin C Supplements",
+    "category": "Pharmacy",
+    "price": 15.99,
+    "imageUrl": "https://images.unsplash.com/photo-1600880292212-16e1a4a4b8f7",
+    "description": "Daily immune support with 1000mg of Vitamin C per tablet."
+  },
+  {
+    "id": "PHA02",
+    "name": "Ibuprofen Pain Reliever",
+    "category": "Pharmacy",
+    "price": 9.99,
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae",
+    "description": "Fast-acting relief from headaches, muscle aches, and fever. 200mg tablets."
+  },
+  {
+    "id": "PHA03",
+    "name": "Allergy Relief Tablets",
+    "category": "Pharmacy",
+    "price": 18.50,
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88",
+    "description": "24-hour non-drowsy relief from sneezing, runny nose, and itchy eyes."
+  },
+  {
+    "id": "PHA04",
+    "name": "Digital Thermometer",
+    "category": "Pharmacy",
+    "price": 12.99,
+    "imageUrl": "https://images.unsplash.com/photo-1584516150909-f43e3a23c4d1",
+    "description": "Provides a fast and accurate temperature reading in seconds. For oral or rectal use."
+  },
+  {
+    "id": "PHA05",
+    "name": "Bandages (Assorted Sizes)",
+    "category": "Pharmacy",
+    "price": 7.50,
+    "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde",
+    "description": "A box of 100 sterile, flexible fabric bandages in various sizes."
+  },
+  {
+    "id": "PHA06",
+    "name": "Antiseptic Ointment",
+    "category": "Pharmacy",
+    "price": 8.99,
+    "imageUrl": "https://images.unsplash.com/photo-1585435557343-3b092031a831",
+    "description": "First-aid ointment to help prevent infection in minor cuts, scrapes, and burns."
+  },
+  {
+    "id": "PHA07",
+    "name": "Digital Blood Pressure Monitor",
+    "category": "Pharmacy",
+    "price": 49.99,
+    "imageUrl": "https://images.unsplash.com/photo-1615461066159-fea0960485d5",
+    "description": "An automatic, upper arm blood pressure monitor for at-home use."
+  },
+  {
+    "id": "PHA08",
+    "name": "Multivitamins for Adults",
+    "category": "Pharmacy",
+    "price": 22.50,
+    "imageUrl": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2",
+    "description": "A complete daily multivitamin to support overall health and wellness."
+  },
+  {
+    "id": "PHA09",
+    "name": "Heartburn Relief Chewables",
+    "category": "Pharmacy",
+    "price": 11.99,
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae",
+    "description": "Fast-acting chewable tablets for relief from heartburn and acid indigestion."
+  },
+  {
+    "id": "GRO01",
+    "name": "Organic Orange Juice",
+    "category": "Groceries",
+    "price": 5.49,
+    "imageUrl": "https://images.unsplash.com/photo-1613478223719-2ab3b07043b3",
+    "description": "Freshly squeezed organic orange juice, rich in vitamins and with no added sugar."
+  },
+  {
+    "id": "GRO02",
+    "name": "Whole Wheat Bread",
+    "category": "Groceries",
+    "price": 4.29,
+    "imageUrl": "https://images.unsplash.com/photo-1552391643-43a05a1a1a2b",
+    "description": "A soft and delicious loaf of whole wheat bread, high in fiber."
+  },
+  {
+    "id": "GRO03",
+    "name": "Fresh Avocados (Pack of 3)",
+    "category": "Groceries",
+    "price": 6.99,
+    "imageUrl": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578",
+    "description": "Creamy and nutritious avocados, perfect for toast, salads, and guacamole."
+  },
+  {
+    "id": "GRO04",
+    "name": "Greek Yogurt",
+    "category": "Groceries",
+    "price": 5.99,
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+    "description": "Thick and creamy plain Greek yogurt, packed with protein."
+  },
+  {
+    "id": "GRO05",
+    "name": "Almond Milk",
+    "category": "Groceries",
+    "price": 4.79,
+    "imageUrl": "https://images.unsplash.com/photo-1563636619-e9143da7973b",
+    "description": "A smooth and unsweetened dairy-free alternative to milk."
+  },
+  {
+    "id": "GRO06",
+    "name": "Organic Gala Apples",
+    "category": "Groceries",
+    "price": 3.99,
+    "imageUrl": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb",
+    "description": "A 2lb bag of crisp, sweet, and juicy organic Gala apples."
+  },
+  {
+    "id": "GRO07",
+    "name": "Pasta (Spaghetti)",
+    "category": "Groceries",
+    "price": 2.99,
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d8c49a",
+    "description": "Classic spaghetti pasta made from 100% durum wheat semolina."
+  },
+  {
+    "id": "GRO08",
+    "name": "Canned Tomato Sauce",
+    "category": "Groceries",
+    "price": 1.99,
+    "imageUrl": "https://images.unsplash.com/photo-1606756790138-261d2b21cd18",
+    "description": "A rich and flavorful tomato sauce, perfect as a base for many dishes."
+  },
+  {
+    "id": "GRO09",
+    "name": "Olive Oil (Extra Virgin)",
+    "category": "Groceries",
+    "price": 14.99,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5",
+    "description": "Cold-pressed extra virgin olive oil with a robust, fruity flavor."
+  },
+  {
+    "id": "GRO10",
+    "name": "Cage-Free Eggs (Dozen)",
+    "category": "Groceries",
+    "price": 5.29,
+    "imageUrl": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f",
+    "description": "A dozen large, brown, cage-free eggs from humanely raised hens."
+  },
+  {
+    "id": "GRO11",
+    "name": "Basmati Rice (1kg)",
+    "category": "Groceries",
+    "price": 8.99,
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
+    "description": "Aromatic, long-grain Basmati rice, aged for perfection."
+  }
+]
