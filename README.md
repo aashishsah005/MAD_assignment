@@ -127,12 +127,12 @@ Place a `products.json` file in `app/src/main/assets/` with the following struct
 ### Light Mode
 | Login | Home | Product Details |
 |-------|------|-----------------|
-| ![Login](screenshots/login_light.png) | ![Home](screenshots/home_light.png) | ![Details](screenshots/details_light.png) |
+| ![Login](screenshots/login_light.jpg) | ![Home](screenshots/home_light.jpg) | ![Details](screenshots/details_light.jpg) |
 
 ### Dark Mode
 | Cart | Compare | Profile |
 |------|---------|---------|
-| ![Cart](screenshots/cart_dark.png) | ![Compare](screenshots/compare_dark.png) | ![Profile](screenshots/profile_dark.png) |
+| ![Cart](screenshots/cart_dark.jpg) | ![Compare](screenshots/compare_dark.jpg) | ![Profile](screenshots/profile_dark.jpg) |
 
 ## 🔧 Configuration
 
